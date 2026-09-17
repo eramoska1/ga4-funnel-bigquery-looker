@@ -1,0 +1,611 @@
+event_date,device_category,step,step_order,sessions
+2021-01-01,desktop,Add to Cart,3,35
+2021-01-01,desktop,Checkout Started,4,11
+2021-01-01,desktop,Payment Info,6,7
+2021-01-01,desktop,Product View,2,189
+2021-01-01,desktop,Purchase,7,4
+2021-01-01,desktop,Session,1,1347
+2021-01-01,desktop,Shipping Info,5,11
+2021-01-01,mobile,Add to Cart,3,32
+2021-01-01,mobile,Checkout Started,4,15
+2021-01-01,mobile,Payment Info,6,10
+2021-01-01,mobile,Product View,2,125
+2021-01-01,mobile,Purchase,7,7
+2021-01-01,mobile,Session,1,891
+2021-01-01,mobile,Shipping Info,5,15
+2021-01-01,tablet,Add to Cart,3,1
+2021-01-01,tablet,Checkout Started,4,1
+2021-01-01,tablet,Payment Info,6,1
+2021-01-01,tablet,Product View,2,7
+2021-01-01,tablet,Purchase,7,1
+2021-01-01,tablet,Session,1,51
+2021-01-01,tablet,Shipping Info,5,1
+2021-01-02,desktop,Add to Cart,3,38
+2021-01-02,desktop,Checkout Started,4,19
+2021-01-02,desktop,Payment Info,6,9
+2021-01-02,desktop,Product View,2,249
+2021-01-02,desktop,Purchase,7,6
+2021-01-02,desktop,Session,1,1648
+2021-01-02,desktop,Shipping Info,5,19
+2021-01-02,mobile,Add to Cart,3,25
+2021-01-02,mobile,Checkout Started,4,10
+2021-01-02,mobile,Payment Info,6,9
+2021-01-02,mobile,Product View,2,144
+2021-01-02,mobile,Purchase,7,7
+2021-01-02,mobile,Session,1,993
+2021-01-02,mobile,Shipping Info,5,10
+2021-01-02,tablet,Add to Cart,3,2
+2021-01-02,tablet,Checkout Started,4,2
+2021-01-02,tablet,Payment Info,6,2
+2021-01-02,tablet,Product View,2,14
+2021-01-02,tablet,Purchase,7,1
+2021-01-02,tablet,Session,1,64
+2021-01-02,tablet,Shipping Info,5,2
+2021-01-03,desktop,Add to Cart,3,35
+2021-01-03,desktop,Checkout Started,4,19
+2021-01-03,desktop,Payment Info,6,9
+2021-01-03,desktop,Product View,2,241
+2021-01-03,desktop,Purchase,7,7
+2021-01-03,desktop,Session,1,1625
+2021-01-03,desktop,Shipping Info,5,19
+2021-01-03,mobile,Add to Cart,3,22
+2021-01-03,mobile,Checkout Started,4,13
+2021-01-03,mobile,Payment Info,6,8
+2021-01-03,mobile,Product View,2,174
+2021-01-03,mobile,Purchase,7,7
+2021-01-03,mobile,Session,1,1081
+2021-01-03,mobile,Shipping Info,5,13
+2021-01-03,tablet,Add to Cart,3,2
+2021-01-03,tablet,Product View,2,7
+2021-01-03,tablet,Session,1,47
+2021-01-04,desktop,Add to Cart,3,54
+2021-01-04,desktop,Checkout Started,4,18
+2021-01-04,desktop,Payment Info,6,12
+2021-01-04,desktop,Product View,2,295
+2021-01-04,desktop,Purchase,7,9
+2021-01-04,desktop,Session,1,1949
+2021-01-04,desktop,Shipping Info,5,18
+2021-01-04,mobile,Add to Cart,3,43
+2021-01-04,mobile,Checkout Started,4,12
+2021-01-04,mobile,Payment Info,6,10
+2021-01-04,mobile,Product View,2,211
+2021-01-04,mobile,Purchase,7,6
+2021-01-04,mobile,Session,1,1290
+2021-01-04,mobile,Shipping Info,5,12
+2021-01-04,tablet,Add to Cart,3,4
+2021-01-04,tablet,Checkout Started,4,1
+2021-01-04,tablet,Payment Info,6,1
+2021-01-04,tablet,Product View,2,19
+2021-01-04,tablet,Purchase,7,1
+2021-01-04,tablet,Session,1,78
+2021-01-04,tablet,Shipping Info,5,1
+2021-01-05,desktop,Add to Cart,3,94
+2021-01-05,desktop,Checkout Started,4,36
+2021-01-05,desktop,Payment Info,6,24
+2021-01-05,desktop,Product View,2,416
+2021-01-05,desktop,Purchase,7,17
+2021-01-05,desktop,Session,1,2495
+2021-01-05,desktop,Shipping Info,5,36
+2021-01-05,mobile,Add to Cart,3,57
+2021-01-05,mobile,Checkout Started,4,18
+2021-01-05,mobile,Payment Info,6,12
+2021-01-05,mobile,Product View,2,269
+2021-01-05,mobile,Purchase,7,10
+2021-01-05,mobile,Session,1,1816
+2021-01-05,mobile,Shipping Info,5,18
+2021-01-05,tablet,Add to Cart,3,1
+2021-01-05,tablet,Product View,2,17
+2021-01-05,tablet,Session,1,99
+2021-01-06,desktop,Add to Cart,3,119
+2021-01-06,desktop,Checkout Started,4,42
+2021-01-06,desktop,Payment Info,6,24
+2021-01-06,desktop,Product View,2,481
+2021-01-06,desktop,Purchase,7,16
+2021-01-06,desktop,Session,1,3508
+2021-01-06,desktop,Shipping Info,5,42
+2021-01-06,mobile,Add to Cart,3,60
+2021-01-06,mobile,Checkout Started,4,20
+2021-01-06,mobile,Payment Info,6,15
+2021-01-06,mobile,Product View,2,306
+2021-01-06,mobile,Purchase,7,11
+2021-01-06,mobile,Session,1,2319
+2021-01-06,mobile,Shipping Info,5,20
+2021-01-06,tablet,Add to Cart,3,4
+2021-01-06,tablet,Checkout Started,4,3
+2021-01-06,tablet,Payment Info,6,2
+2021-01-06,tablet,Product View,2,14
+2021-01-06,tablet,Purchase,7,1
+2021-01-06,tablet,Session,1,124
+2021-01-06,tablet,Shipping Info,5,3
+2021-01-07,desktop,Add to Cart,3,103
+2021-01-07,desktop,Checkout Started,4,31
+2021-01-07,desktop,Payment Info,6,21
+2021-01-07,desktop,Product View,2,453
+2021-01-07,desktop,Purchase,7,17
+2021-01-07,desktop,Session,1,2664
+2021-01-07,desktop,Shipping Info,5,31
+2021-01-07,mobile,Add to Cart,3,69
+2021-01-07,mobile,Checkout Started,4,28
+2021-01-07,mobile,Payment Info,6,15
+2021-01-07,mobile,Product View,2,290
+2021-01-07,mobile,Purchase,7,8
+2021-01-07,mobile,Session,1,1820
+2021-01-07,mobile,Shipping Info,5,28
+2021-01-07,tablet,Add to Cart,3,4
+2021-01-07,tablet,Checkout Started,4,2
+2021-01-07,tablet,Payment Info,6,2
+2021-01-07,tablet,Product View,2,30
+2021-01-07,tablet,Session,1,123
+2021-01-07,tablet,Shipping Info,5,2
+2021-01-08,desktop,Add to Cart,3,95
+2021-01-08,desktop,Checkout Started,4,40
+2021-01-08,desktop,Payment Info,6,28
+2021-01-08,desktop,Product View,2,396
+2021-01-08,desktop,Purchase,7,22
+2021-01-08,desktop,Session,1,2423
+2021-01-08,desktop,Shipping Info,5,40
+2021-01-08,mobile,Add to Cart,3,57
+2021-01-08,mobile,Checkout Started,4,20
+2021-01-08,mobile,Payment Info,6,16
+2021-01-08,mobile,Product View,2,258
+2021-01-08,mobile,Purchase,7,11
+2021-01-08,mobile,Session,1,1681
+2021-01-08,mobile,Shipping Info,5,20
+2021-01-08,tablet,Add to Cart,3,3
+2021-01-08,tablet,Checkout Started,4,3
+2021-01-08,tablet,Payment Info,6,3
+2021-01-08,tablet,Product View,2,17
+2021-01-08,tablet,Purchase,7,1
+2021-01-08,tablet,Session,1,113
+2021-01-08,tablet,Shipping Info,5,3
+2021-01-09,desktop,Add to Cart,3,59
+2021-01-09,desktop,Checkout Started,4,22
+2021-01-09,desktop,Payment Info,6,13
+2021-01-09,desktop,Product View,2,317
+2021-01-09,desktop,Purchase,7,9
+2021-01-09,desktop,Session,1,1849
+2021-01-09,desktop,Shipping Info,5,22
+2021-01-09,mobile,Add to Cart,3,49
+2021-01-09,mobile,Checkout Started,4,16
+2021-01-09,mobile,Payment Info,6,12
+2021-01-09,mobile,Product View,2,194
+2021-01-09,mobile,Purchase,7,9
+2021-01-09,mobile,Session,1,1326
+2021-01-09,mobile,Shipping Info,5,16
+2021-01-09,tablet,Add to Cart,3,2
+2021-01-09,tablet,Product View,2,11
+2021-01-09,tablet,Session,1,64
+2021-01-10,desktop,Add to Cart,3,47
+2021-01-10,desktop,Checkout Started,4,21
+2021-01-10,desktop,Payment Info,6,14
+2021-01-10,desktop,Product View,2,247
+2021-01-10,desktop,Purchase,7,9
+2021-01-10,desktop,Session,1,1678
+2021-01-10,desktop,Shipping Info,5,21
+2021-01-10,mobile,Add to Cart,3,33
+2021-01-10,mobile,Checkout Started,4,12
+2021-01-10,mobile,Payment Info,6,7
+2021-01-10,mobile,Product View,2,189
+2021-01-10,mobile,Purchase,7,5
+2021-01-10,mobile,Session,1,1232
+2021-01-10,mobile,Shipping Info,5,12
+2021-01-10,tablet,Add to Cart,3,5
+2021-01-10,tablet,Checkout Started,4,1
+2021-01-10,tablet,Product View,2,15
+2021-01-10,tablet,Session,1,64
+2021-01-10,tablet,Shipping Info,5,1
+2021-01-11,desktop,Add to Cart,3,88
+2021-01-11,desktop,Checkout Started,4,36
+2021-01-11,desktop,Payment Info,6,25
+2021-01-11,desktop,Product View,2,379
+2021-01-11,desktop,Purchase,7,18
+2021-01-11,desktop,Session,1,2222
+2021-01-11,desktop,Shipping Info,5,36
+2021-01-11,mobile,Add to Cart,3,70
+2021-01-11,mobile,Checkout Started,4,18
+2021-01-11,mobile,Payment Info,6,11
+2021-01-11,mobile,Product View,2,288
+2021-01-11,mobile,Purchase,7,8
+2021-01-11,mobile,Session,1,1603
+2021-01-11,mobile,Shipping Info,5,18
+2021-01-11,tablet,Add to Cart,3,2
+2021-01-11,tablet,Checkout Started,4,2
+2021-01-11,tablet,Payment Info,6,2
+2021-01-11,tablet,Product View,2,15
+2021-01-11,tablet,Purchase,7,1
+2021-01-11,tablet,Session,1,90
+2021-01-11,tablet,Shipping Info,5,2
+2021-01-12,desktop,Add to Cart,3,108
+2021-01-12,desktop,Checkout Started,4,45
+2021-01-12,desktop,Payment Info,6,34
+2021-01-12,desktop,Product View,2,498
+2021-01-12,desktop,Purchase,7,25
+2021-01-12,desktop,Session,1,2661
+2021-01-12,desktop,Shipping Info,5,45
+2021-01-12,mobile,Add to Cart,3,59
+2021-01-12,mobile,Checkout Started,4,31
+2021-01-12,mobile,Payment Info,6,22
+2021-01-12,mobile,Product View,2,330
+2021-01-12,mobile,Purchase,7,16
+2021-01-12,mobile,Session,1,1916
+2021-01-12,mobile,Shipping Info,5,31
+2021-01-12,tablet,Add to Cart,3,5
+2021-01-12,tablet,Checkout Started,4,3
+2021-01-12,tablet,Payment Info,6,2
+2021-01-12,tablet,Product View,2,19
+2021-01-12,tablet,Purchase,7,2
+2021-01-12,tablet,Session,1,100
+2021-01-12,tablet,Shipping Info,5,3
+2021-01-13,desktop,Add to Cart,3,108
+2021-01-13,desktop,Checkout Started,4,47
+2021-01-13,desktop,Payment Info,6,34
+2021-01-13,desktop,Product View,2,454
+2021-01-13,desktop,Purchase,7,20
+2021-01-13,desktop,Session,1,2570
+2021-01-13,desktop,Shipping Info,5,47
+2021-01-13,mobile,Add to Cart,3,70
+2021-01-13,mobile,Checkout Started,4,37
+2021-01-13,mobile,Payment Info,6,23
+2021-01-13,mobile,Product View,2,308
+2021-01-13,mobile,Purchase,7,15
+2021-01-13,mobile,Session,1,1821
+2021-01-13,mobile,Shipping Info,5,37
+2021-01-13,tablet,Add to Cart,3,1
+2021-01-13,tablet,Product View,2,9
+2021-01-13,tablet,Session,1,86
+2021-01-14,desktop,Add to Cart,3,121
+2021-01-14,desktop,Checkout Started,4,44
+2021-01-14,desktop,Payment Info,6,34
+2021-01-14,desktop,Product View,2,508
+2021-01-14,desktop,Purchase,7,26
+2021-01-14,desktop,Session,1,2502
+2021-01-14,desktop,Shipping Info,5,44
+2021-01-14,mobile,Add to Cart,3,76
+2021-01-14,mobile,Checkout Started,4,38
+2021-01-14,mobile,Payment Info,6,32
+2021-01-14,mobile,Product View,2,318
+2021-01-14,mobile,Purchase,7,21
+2021-01-14,mobile,Session,1,1719
+2021-01-14,mobile,Shipping Info,5,38
+2021-01-14,tablet,Add to Cart,3,5
+2021-01-14,tablet,Product View,2,24
+2021-01-14,tablet,Session,1,100
+2021-01-15,desktop,Add to Cart,3,93
+2021-01-15,desktop,Checkout Started,4,37
+2021-01-15,desktop,Payment Info,6,28
+2021-01-15,desktop,Product View,2,401
+2021-01-15,desktop,Purchase,7,19
+2021-01-15,desktop,Session,1,2255
+2021-01-15,desktop,Shipping Info,5,37
+2021-01-15,mobile,Add to Cart,3,72
+2021-01-15,mobile,Checkout Started,4,31
+2021-01-15,mobile,Payment Info,6,23
+2021-01-15,mobile,Product View,2,298
+2021-01-15,mobile,Purchase,7,17
+2021-01-15,mobile,Session,1,1554
+2021-01-15,mobile,Shipping Info,5,31
+2021-01-15,tablet,Add to Cart,3,2
+2021-01-15,tablet,Checkout Started,4,3
+2021-01-15,tablet,Payment Info,6,2
+2021-01-15,tablet,Product View,2,20
+2021-01-15,tablet,Purchase,7,2
+2021-01-15,tablet,Session,1,84
+2021-01-15,tablet,Shipping Info,5,3
+2021-01-16,desktop,Add to Cart,3,68
+2021-01-16,desktop,Checkout Started,4,31
+2021-01-16,desktop,Payment Info,6,18
+2021-01-16,desktop,Product View,2,293
+2021-01-16,desktop,Purchase,7,11
+2021-01-16,desktop,Session,1,1764
+2021-01-16,desktop,Shipping Info,5,31
+2021-01-16,mobile,Add to Cart,3,51
+2021-01-16,mobile,Checkout Started,4,21
+2021-01-16,mobile,Payment Info,6,15
+2021-01-16,mobile,Product View,2,229
+2021-01-16,mobile,Purchase,7,13
+2021-01-16,mobile,Session,1,1296
+2021-01-16,mobile,Shipping Info,5,21
+2021-01-16,tablet,Add to Cart,3,1
+2021-01-16,tablet,Product View,2,12
+2021-01-16,tablet,Session,1,86
+2021-01-17,desktop,Add to Cart,3,46
+2021-01-17,desktop,Checkout Started,4,28
+2021-01-17,desktop,Payment Info,6,20
+2021-01-17,desktop,Product View,2,262
+2021-01-17,desktop,Purchase,7,10
+2021-01-17,desktop,Session,1,1766
+2021-01-17,desktop,Shipping Info,5,28
+2021-01-17,mobile,Add to Cart,3,40
+2021-01-17,mobile,Checkout Started,4,7
+2021-01-17,mobile,Payment Info,6,5
+2021-01-17,mobile,Product View,2,177
+2021-01-17,mobile,Purchase,7,4
+2021-01-17,mobile,Session,1,1132
+2021-01-17,mobile,Shipping Info,5,7
+2021-01-17,tablet,Add to Cart,3,4
+2021-01-17,tablet,Product View,2,16
+2021-01-17,tablet,Session,1,62
+2021-01-18,desktop,Add to Cart,3,63
+2021-01-18,desktop,Checkout Started,4,23
+2021-01-18,desktop,Payment Info,6,13
+2021-01-18,desktop,Product View,2,306
+2021-01-18,desktop,Purchase,7,8
+2021-01-18,desktop,Session,1,2083
+2021-01-18,desktop,Shipping Info,5,23
+2021-01-18,mobile,Add to Cart,3,47
+2021-01-18,mobile,Checkout Started,4,24
+2021-01-18,mobile,Payment Info,6,14
+2021-01-18,mobile,Product View,2,202
+2021-01-18,mobile,Purchase,7,10
+2021-01-18,mobile,Session,1,1408
+2021-01-18,mobile,Shipping Info,5,24
+2021-01-18,tablet,Add to Cart,3,2
+2021-01-18,tablet,Product View,2,10
+2021-01-18,tablet,Session,1,70
+2021-01-19,desktop,Add to Cart,3,95
+2021-01-19,desktop,Checkout Started,4,46
+2021-01-19,desktop,Payment Info,6,37
+2021-01-19,desktop,Product View,2,462
+2021-01-19,desktop,Purchase,7,24
+2021-01-19,desktop,Session,1,2379
+2021-01-19,desktop,Shipping Info,5,46
+2021-01-19,mobile,Add to Cart,3,77
+2021-01-19,mobile,Checkout Started,4,33
+2021-01-19,mobile,Payment Info,6,25
+2021-01-19,mobile,Product View,2,347
+2021-01-19,mobile,Purchase,7,19
+2021-01-19,mobile,Session,1,1668
+2021-01-19,mobile,Shipping Info,5,33
+2021-01-19,tablet,Add to Cart,3,7
+2021-01-19,tablet,Checkout Started,4,4
+2021-01-19,tablet,Payment Info,6,4
+2021-01-19,tablet,Product View,2,29
+2021-01-19,tablet,Purchase,7,4
+2021-01-19,tablet,Session,1,99
+2021-01-19,tablet,Shipping Info,5,4
+2021-01-20,desktop,Add to Cart,3,149
+2021-01-20,desktop,Checkout Started,4,86
+2021-01-20,desktop,Payment Info,6,75
+2021-01-20,desktop,Product View,2,690
+2021-01-20,desktop,Purchase,7,56
+2021-01-20,desktop,Session,1,2747
+2021-01-20,desktop,Shipping Info,5,86
+2021-01-20,mobile,Add to Cart,3,93
+2021-01-20,mobile,Checkout Started,4,55
+2021-01-20,mobile,Payment Info,6,44
+2021-01-20,mobile,Product View,2,481
+2021-01-20,mobile,Purchase,7,37
+2021-01-20,mobile,Session,1,1883
+2021-01-20,mobile,Shipping Info,5,55
+2021-01-20,tablet,Add to Cart,3,2
+2021-01-20,tablet,Checkout Started,4,3
+2021-01-20,tablet,Payment Info,6,2
+2021-01-20,tablet,Product View,2,23
+2021-01-20,tablet,Purchase,7,1
+2021-01-20,tablet,Session,1,97
+2021-01-20,tablet,Shipping Info,5,3
+2021-01-21,desktop,Add to Cart,3,140
+2021-01-21,desktop,Checkout Started,4,67
+2021-01-21,desktop,Payment Info,6,45
+2021-01-21,desktop,Product View,2,824
+2021-01-21,desktop,Purchase,7,32
+2021-01-21,desktop,Session,1,2660
+2021-01-21,desktop,Shipping Info,5,67
+2021-01-21,mobile,Add to Cart,3,73
+2021-01-21,mobile,Checkout Started,4,36
+2021-01-21,mobile,Payment Info,6,25
+2021-01-21,mobile,Product View,2,561
+2021-01-21,mobile,Purchase,7,16
+2021-01-21,mobile,Session,1,1867
+2021-01-21,mobile,Shipping Info,5,36
+2021-01-21,tablet,Add to Cart,3,5
+2021-01-21,tablet,Checkout Started,4,3
+2021-01-21,tablet,Payment Info,6,2
+2021-01-21,tablet,Product View,2,26
+2021-01-21,tablet,Purchase,7,1
+2021-01-21,tablet,Session,1,112
+2021-01-21,tablet,Shipping Info,5,3
+2021-01-22,desktop,Add to Cart,3,130
+2021-01-22,desktop,Checkout Started,4,94
+2021-01-22,desktop,Payment Info,6,70
+2021-01-22,desktop,Product View,2,698
+2021-01-22,desktop,Purchase,7,50
+2021-01-22,desktop,Session,1,2391
+2021-01-22,desktop,Shipping Info,5,94
+2021-01-22,mobile,Add to Cart,3,83
+2021-01-22,mobile,Checkout Started,4,61
+2021-01-22,mobile,Payment Info,6,53
+2021-01-22,mobile,Product View,2,435
+2021-01-22,mobile,Purchase,7,37
+2021-01-22,mobile,Session,1,1569
+2021-01-22,mobile,Shipping Info,5,61
+2021-01-22,tablet,Add to Cart,3,3
+2021-01-22,tablet,Checkout Started,4,1
+2021-01-22,tablet,Payment Info,6,1
+2021-01-22,tablet,Product View,2,19
+2021-01-22,tablet,Purchase,7,1
+2021-01-22,tablet,Session,1,71
+2021-01-22,tablet,Shipping Info,5,1
+2021-01-23,desktop,Add to Cart,3,74
+2021-01-23,desktop,Checkout Started,4,47
+2021-01-23,desktop,Payment Info,6,38
+2021-01-23,desktop,Product View,2,416
+2021-01-23,desktop,Purchase,7,26
+2021-01-23,desktop,Session,1,1762
+2021-01-23,desktop,Shipping Info,5,47
+2021-01-23,mobile,Add to Cart,3,49
+2021-01-23,mobile,Checkout Started,4,29
+2021-01-23,mobile,Payment Info,6,19
+2021-01-23,mobile,Product View,2,302
+2021-01-23,mobile,Purchase,7,15
+2021-01-23,mobile,Session,1,1257
+2021-01-23,mobile,Shipping Info,5,29
+2021-01-23,tablet,Add to Cart,3,5
+2021-01-23,tablet,Checkout Started,4,3
+2021-01-23,tablet,Payment Info,6,2
+2021-01-23,tablet,Product View,2,22
+2021-01-23,tablet,Purchase,7,2
+2021-01-23,tablet,Session,1,69
+2021-01-23,tablet,Shipping Info,5,3
+2021-01-24,desktop,Add to Cart,3,60
+2021-01-24,desktop,Checkout Started,4,35
+2021-01-24,desktop,Payment Info,6,24
+2021-01-24,desktop,Product View,2,391
+2021-01-24,desktop,Purchase,7,18
+2021-01-24,desktop,Session,1,1757
+2021-01-24,desktop,Shipping Info,5,35
+2021-01-24,mobile,Add to Cart,3,50
+2021-01-24,mobile,Checkout Started,4,33
+2021-01-24,mobile,Payment Info,6,24
+2021-01-24,mobile,Product View,2,234
+2021-01-24,mobile,Purchase,7,17
+2021-01-24,mobile,Session,1,1102
+2021-01-24,mobile,Shipping Info,5,33
+2021-01-24,tablet,Add to Cart,3,3
+2021-01-24,tablet,Product View,2,19
+2021-01-24,tablet,Session,1,69
+2021-01-25,desktop,Add to Cart,3,87
+2021-01-25,desktop,Checkout Started,4,48
+2021-01-25,desktop,Payment Info,6,39
+2021-01-25,desktop,Product View,2,547
+2021-01-25,desktop,Purchase,7,33
+2021-01-25,desktop,Session,1,2258
+2021-01-25,desktop,Shipping Info,5,48
+2021-01-25,mobile,Add to Cart,3,59
+2021-01-25,mobile,Checkout Started,4,34
+2021-01-25,mobile,Payment Info,6,28
+2021-01-25,mobile,Product View,2,384
+2021-01-25,mobile,Purchase,7,23
+2021-01-25,mobile,Session,1,1517
+2021-01-25,mobile,Shipping Info,5,34
+2021-01-25,tablet,Add to Cart,3,4
+2021-01-25,tablet,Checkout Started,4,3
+2021-01-25,tablet,Payment Info,6,2
+2021-01-25,tablet,Product View,2,17
+2021-01-25,tablet,Purchase,7,2
+2021-01-25,tablet,Session,1,87
+2021-01-25,tablet,Shipping Info,5,3
+2021-01-26,desktop,Add to Cart,3,81
+2021-01-26,desktop,Checkout Started,4,51
+2021-01-26,desktop,Payment Info,6,34
+2021-01-26,desktop,Product View,2,534
+2021-01-26,desktop,Purchase,7,24
+2021-01-26,desktop,Session,1,2365
+2021-01-26,desktop,Shipping Info,5,51
+2021-01-26,mobile,Add to Cart,3,63
+2021-01-26,mobile,Checkout Started,4,37
+2021-01-26,mobile,Payment Info,6,31
+2021-01-26,mobile,Product View,2,410
+2021-01-26,mobile,Purchase,7,26
+2021-01-26,mobile,Session,1,1592
+2021-01-26,mobile,Shipping Info,5,37
+2021-01-26,tablet,Add to Cart,3,1
+2021-01-26,tablet,Checkout Started,4,1
+2021-01-26,tablet,Payment Info,6,1
+2021-01-26,tablet,Product View,2,23
+2021-01-26,tablet,Purchase,7,1
+2021-01-26,tablet,Session,1,91
+2021-01-26,tablet,Shipping Info,5,1
+2021-01-27,desktop,Add to Cart,3,123
+2021-01-27,desktop,Checkout Started,4,56
+2021-01-27,desktop,Payment Info,6,37
+2021-01-27,desktop,Product View,2,687
+2021-01-27,desktop,Purchase,7,18
+2021-01-27,desktop,Session,1,2522
+2021-01-27,desktop,Shipping Info,5,56
+2021-01-27,mobile,Add to Cart,3,106
+2021-01-27,mobile,Checkout Started,4,61
+2021-01-27,mobile,Payment Info,6,46
+2021-01-27,mobile,Product View,2,479
+2021-01-27,mobile,Purchase,7,31
+2021-01-27,mobile,Session,1,1656
+2021-01-27,mobile,Shipping Info,5,61
+2021-01-27,tablet,Add to Cart,3,5
+2021-01-27,tablet,Checkout Started,4,2
+2021-01-27,tablet,Payment Info,6,1
+2021-01-27,tablet,Product View,2,24
+2021-01-27,tablet,Purchase,7,1
+2021-01-27,tablet,Session,1,93
+2021-01-27,tablet,Shipping Info,5,2
+2021-01-28,desktop,Add to Cart,3,111
+2021-01-28,desktop,Checkout Started,4,42
+2021-01-28,desktop,Payment Info,6,32
+2021-01-28,desktop,Product View,2,606
+2021-01-28,desktop,Purchase,7,28
+2021-01-28,desktop,Session,1,2367
+2021-01-28,desktop,Shipping Info,5,42
+2021-01-28,mobile,Add to Cart,3,75
+2021-01-28,mobile,Checkout Started,4,44
+2021-01-28,mobile,Payment Info,6,35
+2021-01-28,mobile,Product View,2,403
+2021-01-28,mobile,Purchase,7,26
+2021-01-28,mobile,Session,1,1615
+2021-01-28,mobile,Shipping Info,5,44
+2021-01-28,tablet,Add to Cart,3,4
+2021-01-28,tablet,Checkout Started,4,3
+2021-01-28,tablet,Payment Info,6,3
+2021-01-28,tablet,Product View,2,26
+2021-01-28,tablet,Purchase,7,2
+2021-01-28,tablet,Session,1,74
+2021-01-28,tablet,Shipping Info,5,3
+2021-01-29,desktop,Add to Cart,3,102
+2021-01-29,desktop,Checkout Started,4,54
+2021-01-29,desktop,Payment Info,6,43
+2021-01-29,desktop,Product View,2,539
+2021-01-29,desktop,Purchase,7,28
+2021-01-29,desktop,Session,1,2177
+2021-01-29,desktop,Shipping Info,5,54
+2021-01-29,mobile,Add to Cart,3,57
+2021-01-29,mobile,Checkout Started,4,34
+2021-01-29,mobile,Payment Info,6,23
+2021-01-29,mobile,Product View,2,318
+2021-01-29,mobile,Purchase,7,20
+2021-01-29,mobile,Session,1,1478
+2021-01-29,mobile,Shipping Info,5,34
+2021-01-29,tablet,Add to Cart,3,2
+2021-01-29,tablet,Checkout Started,4,4
+2021-01-29,tablet,Payment Info,6,4
+2021-01-29,tablet,Product View,2,27
+2021-01-29,tablet,Purchase,7,3
+2021-01-29,tablet,Session,1,86
+2021-01-29,tablet,Shipping Info,5,4
+2021-01-30,desktop,Add to Cart,3,66
+2021-01-30,desktop,Checkout Started,4,33
+2021-01-30,desktop,Payment Info,6,20
+2021-01-30,desktop,Product View,2,353
+2021-01-30,desktop,Purchase,7,17
+2021-01-30,desktop,Session,1,1621
+2021-01-30,desktop,Shipping Info,5,33
+2021-01-30,mobile,Add to Cart,3,39
+2021-01-30,mobile,Checkout Started,4,18
+2021-01-30,mobile,Payment Info,6,15
+2021-01-30,mobile,Product View,2,239
+2021-01-30,mobile,Purchase,7,11
+2021-01-30,mobile,Session,1,1117
+2021-01-30,mobile,Shipping Info,5,18
+2021-01-30,tablet,Add to Cart,3,5
+2021-01-30,tablet,Checkout Started,4,2
+2021-01-30,tablet,Product View,2,16
+2021-01-30,tablet,Session,1,69
+2021-01-30,tablet,Shipping Info,5,2
+2021-01-31,desktop,Add to Cart,3,59
+2021-01-31,desktop,Checkout Started,4,33
+2021-01-31,desktop,Payment Info,6,23
+2021-01-31,desktop,Product View,2,332
+2021-01-31,desktop,Purchase,7,11
+2021-01-31,desktop,Session,1,1575
+2021-01-31,desktop,Shipping Info,5,33
+2021-01-31,mobile,Add to Cart,3,43
+2021-01-31,mobile,Checkout Started,4,21
+2021-01-31,mobile,Payment Info,6,12
+2021-01-31,mobile,Product View,2,229
+2021-01-31,mobile,Purchase,7,6
+2021-01-31,mobile,Session,1,1112
+2021-01-31,mobile,Shipping Info,5,21
+2021-01-31,tablet,Add to Cart,3,2
+2021-01-31,tablet,Checkout Started,4,2
+2021-01-31,tablet,Payment Info,6,1
+2021-01-31,tablet,Product View,2,10
+2021-01-31,tablet,Purchase,7,1
+2021-01-31,tablet,Session,1,71
+2021-01-31,tablet,Shipping Info,5,2

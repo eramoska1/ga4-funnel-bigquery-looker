@@ -1,0 +1,795 @@
+event_date,country,device_category,channel,revenue
+2021-01-01,(not set),mobile,Organic Search,22.0
+2021-01-01,Brazil,desktop,Organic Search,39.0
+2021-01-01,India,mobile,Direct,52.0
+2021-01-01,Israel,mobile,Direct,20.0
+2021-01-01,Japan,mobile,Referral,19.0
+2021-01-01,Philippines,tablet,Paid Search,137.0
+2021-01-01,Portugal,desktop,Direct,305.0
+2021-01-01,United States,desktop,Organic Search,142.0
+2021-01-01,United States,desktop,Unattributed,58.0
+2021-01-01,United States,mobile,Direct,133.0
+2021-01-01,United States,mobile,Unattributed,34.0
+2021-01-02,Canada,mobile,Unattributed,48.0
+2021-01-02,Ecuador,desktop,Organic Search,11.0
+2021-01-02,Egypt,mobile,Referral,12.0
+2021-01-02,India,mobile,Direct,87.0
+2021-01-02,India,mobile,Referral,183.0
+2021-01-02,United States,desktop,Direct,21.0
+2021-01-02,United States,desktop,Organic Search,225.0
+2021-01-02,United States,desktop,Unattributed,377.0
+2021-01-02,United States,mobile,Organic Search,13.0
+2021-01-02,United States,mobile,Unattributed,7.0
+2021-01-02,United States,tablet,Organic Search,42.0
+2021-01-03,(not set),desktop,Unattributed,28.0
+2021-01-03,China,mobile,Unattributed,28.0
+2021-01-03,Colombia,desktop,Unattributed,19.0
+2021-01-03,France,mobile,Unattributed,42.0
+2021-01-03,Germany,desktop,Unattributed,217.0
+2021-01-03,Hong Kong,desktop,Direct,41.0
+2021-01-03,India,mobile,Organic Search,0.0
+2021-01-03,Mexico,desktop,Unattributed,24.0
+2021-01-03,Russia,mobile,Direct,14.0
+2021-01-03,Taiwan,desktop,Paid Search,15.0
+2021-01-03,United States,desktop,Unattributed,2.0
+2021-01-03,United States,mobile,Referral,72.0
+2021-01-03,United States,mobile,Unattributed,50.0
+2021-01-04,Australia,mobile,Paid Search,13.0
+2021-01-04,Canada,desktop,Organic Search,62.0
+2021-01-04,Colombia,desktop,Unattributed,11.0
+2021-01-04,India,desktop,Referral,45.0
+2021-01-04,Malaysia,desktop,Unattributed,143.0
+2021-01-04,Netherlands,mobile,Organic Search,11.0
+2021-01-04,Spain,mobile,Unattributed,49.0
+2021-01-04,United Arab Emirates,tablet,Direct,42.0
+2021-01-04,United States,desktop,Direct,84.0
+2021-01-04,United States,desktop,Organic Search,32.0
+2021-01-04,United States,desktop,Unattributed,101.0
+2021-01-04,United States,mobile,Direct,92.0
+2021-01-04,United States,mobile,Organic Search,123.0
+2021-01-04,United States,mobile,Unattributed,26.0
+2021-01-05,Canada,desktop,Organic Search,48.0
+2021-01-05,Canada,mobile,Unattributed,20.0
+2021-01-05,China,desktop,Organic Search,46.0
+2021-01-05,Costa Rica,mobile,Organic Search,128.0
+2021-01-05,India,desktop,Unattributed,0.0
+2021-01-05,Italy,mobile,Organic Search,18.0
+2021-01-05,Japan,desktop,Organic Search,13.0
+2021-01-05,Mexico,mobile,Organic Search,57.0
+2021-01-05,Poland,desktop,Direct,24.0
+2021-01-05,Poland,mobile,Organic Search,49.0
+2021-01-05,Puerto Rico,desktop,Direct,48.0
+2021-01-05,Taiwan,desktop,Organic Search,63.0
+2021-01-05,Taiwan,mobile,Unattributed,133.0
+2021-01-05,United Arab Emirates,desktop,Organic Search,69.0
+2021-01-05,United States,desktop,Direct,8.0
+2021-01-05,United States,desktop,Organic Search,141.0
+2021-01-05,United States,desktop,Referral,61.0
+2021-01-05,United States,desktop,Unattributed,40.0
+2021-01-05,United States,mobile,Direct,24.0
+2021-01-05,United States,mobile,Paid Search,27.0
+2021-01-05,United States,mobile,Unattributed,102.0
+2021-01-06,(not set),mobile,Unattributed,35.0
+2021-01-06,Australia,desktop,Direct,132.0
+2021-01-06,Australia,desktop,Organic Search,59.0
+2021-01-06,Canada,desktop,Unattributed,27.0
+2021-01-06,Canada,mobile,Direct,38.0
+2021-01-06,Finland,desktop,Organic Search,37.0
+2021-01-06,Germany,desktop,Referral,80.0
+2021-01-06,Hong Kong,tablet,Unattributed,63.0
+2021-01-06,India,desktop,Unattributed,24.0
+2021-01-06,India,mobile,Direct,44.0
+2021-01-06,Indonesia,mobile,Organic Search,115.0
+2021-01-06,Italy,desktop,Direct,13.0
+2021-01-06,Netherlands,mobile,Referral,30.0
+2021-01-06,Puerto Rico,desktop,Unattributed,153.0
+2021-01-06,South Korea,desktop,Unattributed,24.0
+2021-01-06,Spain,desktop,Direct,72.0
+2021-01-06,Spain,desktop,Organic Search,295.0
+2021-01-06,Turkey,desktop,Unattributed,240.0
+2021-01-06,United Kingdom,desktop,Direct,94.0
+2021-01-06,United Kingdom,mobile,Referral,46.0
+2021-01-06,United States,desktop,Direct,23.0
+2021-01-06,United States,desktop,Paid Search,44.0
+2021-01-06,United States,desktop,Referral,23.0
+2021-01-06,United States,mobile,Direct,95.0
+2021-01-06,United States,mobile,Organic Search,55.0
+2021-01-06,United States,mobile,Referral,57.0
+2021-01-06,United States,mobile,Unattributed,82.0
+2021-01-07,Australia,mobile,Organic Search,79.0
+2021-01-07,Brazil,mobile,Unattributed,50.0
+2021-01-07,Canada,desktop,Direct,16.0
+2021-01-07,France,desktop,Unattributed,31.0
+2021-01-07,Guatemala,mobile,Organic Search,16.0
+2021-01-07,India,desktop,Organic Search,198.0
+2021-01-07,Spain,desktop,Unattributed,37.0
+2021-01-07,Taiwan,mobile,Direct,80.0
+2021-01-07,Turkey,mobile,Organic Search,110.0
+2021-01-07,United Kingdom,mobile,Organic Search,68.0
+2021-01-07,United States,desktop,Direct,195.0
+2021-01-07,United States,desktop,Organic Search,376.0
+2021-01-07,United States,desktop,Referral,8.0
+2021-01-07,United States,desktop,Unattributed,82.0
+2021-01-07,United States,mobile,Direct,90.0
+2021-01-07,United States,mobile,Organic Search,16.0
+2021-01-08,Australia,desktop,Referral,221.0
+2021-01-08,Canada,desktop,Direct,153.0
+2021-01-08,China,desktop,Unattributed,55.0
+2021-01-08,France,desktop,Direct,68.0
+2021-01-08,Indonesia,desktop,Organic Search,66.0
+2021-01-08,Japan,desktop,Direct,29.0
+2021-01-08,Spain,desktop,Unattributed,51.0
+2021-01-08,Taiwan,mobile,Direct,61.0
+2021-01-08,United Kingdom,desktop,Unattributed,28.0
+2021-01-08,United Kingdom,mobile,Direct,260.0
+2021-01-08,United Kingdom,mobile,Organic Search,30.0
+2021-01-08,United States,desktop,Direct,87.0
+2021-01-08,United States,desktop,Organic Search,67.0
+2021-01-08,United States,desktop,Paid Search,50.0
+2021-01-08,United States,desktop,Unattributed,153.0
+2021-01-08,United States,mobile,Direct,55.0
+2021-01-08,United States,mobile,Referral,29.0
+2021-01-08,United States,mobile,Unattributed,236.0
+2021-01-08,United States,tablet,Organic Search,0.0
+2021-01-09,Chile,desktop,Organic Search,71.0
+2021-01-09,Colombia,desktop,Unattributed,56.0
+2021-01-09,Greece,mobile,Organic Search,101.0
+2021-01-09,Hong Kong,desktop,Referral,55.0
+2021-01-09,India,desktop,Unattributed,85.0
+2021-01-09,India,mobile,Referral,96.0
+2021-01-09,Peru,desktop,Organic Search,153.0
+2021-01-09,Slovenia,desktop,Organic Search,79.0
+2021-01-09,United Kingdom,mobile,Unattributed,8.0
+2021-01-09,United States,desktop,Direct,322.0
+2021-01-09,United States,desktop,Paid Search,40.0
+2021-01-09,United States,desktop,Unattributed,57.0
+2021-01-09,United States,mobile,Direct,24.0
+2021-01-09,United States,mobile,Referral,161.0
+2021-01-09,United States,mobile,Unattributed,55.0
+2021-01-10,Canada,desktop,Direct,63.0
+2021-01-10,China,desktop,Unattributed,55.0
+2021-01-10,Greece,mobile,Unattributed,28.0
+2021-01-10,Philippines,desktop,Unattributed,69.0
+2021-01-10,Poland,desktop,Direct,131.0
+2021-01-10,Taiwan,desktop,Direct,37.0
+2021-01-10,United Kingdom,mobile,Organic Search,24.0
+2021-01-10,United States,desktop,Organic Search,214.0
+2021-01-10,United States,desktop,Unattributed,152.0
+2021-01-10,United States,mobile,Direct,97.0
+2021-01-10,United States,mobile,Organic Search,92.0
+2021-01-10,United States,mobile,Unattributed,12.0
+2021-01-11,Australia,desktop,Direct,34.0
+2021-01-11,Canada,desktop,Organic Search,31.0
+2021-01-11,Canada,desktop,Unattributed,46.0
+2021-01-11,Canada,mobile,Unattributed,55.0
+2021-01-11,France,desktop,Organic Search,19.0
+2021-01-11,France,desktop,Referral,98.0
+2021-01-11,Germany,desktop,Referral,7.0
+2021-01-11,India,desktop,Paid Search,99.0
+2021-01-11,Indonesia,desktop,Direct,110.0
+2021-01-11,Netherlands,tablet,Unattributed,13.0
+2021-01-11,Peru,mobile,Unattributed,19.0
+2021-01-11,Thailand,mobile,Direct,38.0
+2021-01-11,United Kingdom,desktop,Referral,44.0
+2021-01-11,United Kingdom,mobile,Direct,96.0
+2021-01-11,United Kingdom,mobile,Organic Search,158.0
+2021-01-11,United States,desktop,Direct,79.0
+2021-01-11,United States,desktop,Organic Search,175.0
+2021-01-11,United States,desktop,Paid Search,60.0
+2021-01-11,United States,desktop,Unattributed,116.0
+2021-01-11,United States,mobile,Direct,81.0
+2021-01-11,United States,mobile,Unattributed,48.0
+2021-01-12,Austria,desktop,Direct,70.0
+2021-01-12,Austria,desktop,Unattributed,55.0
+2021-01-12,Brazil,mobile,Direct,55.0
+2021-01-12,Canada,desktop,Direct,55.0
+2021-01-12,Canada,mobile,Organic Search,79.0
+2021-01-12,Canada,mobile,Unattributed,167.0
+2021-01-12,China,desktop,Unattributed,202.0
+2021-01-12,Germany,desktop,Organic Search,10.0
+2021-01-12,India,desktop,Unattributed,161.0
+2021-01-12,India,tablet,Unattributed,71.0
+2021-01-12,Japan,mobile,Direct,19.0
+2021-01-12,Palestine,tablet,Organic Search,101.0
+2021-01-12,Peru,desktop,Referral,13.0
+2021-01-12,Philippines,desktop,Organic Search,19.0
+2021-01-12,South Africa,desktop,Organic Search,20.0
+2021-01-12,United Kingdom,desktop,Direct,71.0
+2021-01-12,United States,desktop,Direct,86.0
+2021-01-12,United States,desktop,Organic Search,83.0
+2021-01-12,United States,desktop,Referral,0.0
+2021-01-12,United States,desktop,Unattributed,601.0
+2021-01-12,United States,mobile,Direct,190.0
+2021-01-12,United States,mobile,Organic Search,287.0
+2021-01-12,United States,mobile,Paid Search,42.0
+2021-01-12,United States,mobile,Unattributed,79.0
+2021-01-12,Venezuela,desktop,Direct,11.0
+2021-01-13,Canada,desktop,Organic Search,35.0
+2021-01-13,Canada,desktop,Referral,40.0
+2021-01-13,Canada,desktop,Unattributed,55.0
+2021-01-13,Canada,mobile,Unattributed,14.0
+2021-01-13,Germany,desktop,Unattributed,88.0
+2021-01-13,Hong Kong,desktop,Paid Search,24.0
+2021-01-13,Italy,mobile,Direct,35.0
+2021-01-13,Italy,mobile,Organic Search,116.0
+2021-01-13,Japan,desktop,Organic Search,88.0
+2021-01-13,Malaysia,desktop,Referral,92.0
+2021-01-13,Netherlands,mobile,Unattributed,55.0
+2021-01-13,Poland,desktop,Direct,0.0
+2021-01-13,Singapore,desktop,Referral,24.0
+2021-01-13,Taiwan,desktop,Unattributed,55.0
+2021-01-13,United Kingdom,mobile,Organic Search,36.0
+2021-01-13,United States,desktop,Direct,110.0
+2021-01-13,United States,desktop,Organic Search,135.0
+2021-01-13,United States,desktop,Paid Search,18.0
+2021-01-13,United States,desktop,Referral,50.0
+2021-01-13,United States,desktop,Unattributed,265.0
+2021-01-13,United States,mobile,Direct,31.0
+2021-01-13,United States,mobile,Organic Search,42.0
+2021-01-13,United States,mobile,Referral,173.0
+2021-01-13,United States,mobile,Unattributed,277.0
+2021-01-14,Austria,mobile,Organic Search,19.0
+2021-01-14,Brazil,desktop,Organic Search,48.0
+2021-01-14,Bulgaria,mobile,Unattributed,40.0
+2021-01-14,Canada,desktop,Direct,41.0
+2021-01-14,Canada,desktop,Unattributed,196.0
+2021-01-14,Canada,mobile,Direct,140.0
+2021-01-14,Canada,mobile,Organic Search,61.0
+2021-01-14,Canada,mobile,Unattributed,138.0
+2021-01-14,Chile,desktop,Direct,53.0
+2021-01-14,France,desktop,Direct,110.0
+2021-01-14,France,desktop,Organic Search,19.0
+2021-01-14,France,desktop,Unattributed,29.0
+2021-01-14,Germany,desktop,Unattributed,71.0
+2021-01-14,Greece,desktop,Unattributed,69.0
+2021-01-14,India,desktop,Organic Search,41.0
+2021-01-14,India,desktop,Unattributed,0.0
+2021-01-14,India,mobile,Organic Search,55.0
+2021-01-14,India,mobile,Referral,68.0
+2021-01-14,Italy,mobile,Organic Search,30.0
+2021-01-14,Poland,desktop,Direct,0.0
+2021-01-14,South Korea,desktop,Unattributed,52.0
+2021-01-14,Spain,desktop,Direct,32.0
+2021-01-14,Taiwan,desktop,Organic Search,86.0
+2021-01-14,Thailand,desktop,Referral,81.0
+2021-01-14,Thailand,mobile,Unattributed,132.0
+2021-01-14,Turkey,mobile,Unattributed,52.0
+2021-01-14,United Kingdom,mobile,Organic Search,55.0
+2021-01-14,United States,desktop,Organic Search,31.0
+2021-01-14,United States,desktop,Referral,175.0
+2021-01-14,United States,desktop,Unattributed,136.0
+2021-01-14,United States,mobile,Direct,865.0
+2021-01-14,United States,mobile,Organic Search,103.0
+2021-01-14,United States,mobile,Referral,56.0
+2021-01-14,United States,mobile,Unattributed,107.0
+2021-01-15,(not set),desktop,Referral,21.0
+2021-01-15,Belgium,desktop,Unattributed,0.0
+2021-01-15,Canada,desktop,Unattributed,12.0
+2021-01-15,Canada,mobile,Direct,46.0
+2021-01-15,Canada,mobile,Unattributed,26.0
+2021-01-15,Colombia,mobile,Direct,44.0
+2021-01-15,India,desktop,Direct,0.0
+2021-01-15,India,desktop,Organic Search,55.0
+2021-01-15,Ireland,desktop,Direct,12.0
+2021-01-15,Malaysia,mobile,Organic Search,99.0
+2021-01-15,Pakistan,desktop,Organic Search,78.0
+2021-01-15,Pakistan,tablet,Unattributed,55.0
+2021-01-15,Peru,desktop,Unattributed,32.0
+2021-01-15,Portugal,desktop,Direct,44.0
+2021-01-15,Romania,mobile,Direct,24.0
+2021-01-15,Russia,mobile,Organic Search,86.0
+2021-01-15,Singapore,desktop,Organic Search,50.0
+2021-01-15,Spain,desktop,Unattributed,454.0
+2021-01-15,Spain,mobile,Referral,78.0
+2021-01-15,United Kingdom,desktop,Organic Search,0.0
+2021-01-15,United Kingdom,mobile,Direct,25.0
+2021-01-15,United Kingdom,mobile,Organic Search,164.0
+2021-01-15,United Kingdom,tablet,Unattributed,15.0
+2021-01-15,United States,desktop,Direct,47.0
+2021-01-15,United States,desktop,Organic Search,25.0
+2021-01-15,United States,desktop,Referral,30.0
+2021-01-15,United States,desktop,Unattributed,117.0
+2021-01-15,United States,mobile,Direct,14.0
+2021-01-15,United States,mobile,Organic Search,338.0
+2021-01-15,United States,mobile,Paid Search,80.0
+2021-01-16,Canada,desktop,Direct,14.0
+2021-01-16,Canada,desktop,Organic Search,55.0
+2021-01-16,Canada,desktop,Referral,91.0
+2021-01-16,Canada,mobile,Organic Search,55.0
+2021-01-16,China,mobile,Unattributed,131.0
+2021-01-16,France,mobile,Organic Search,26.0
+2021-01-16,India,desktop,Referral,53.0
+2021-01-16,India,desktop,Unattributed,16.0
+2021-01-16,India,mobile,Organic Search,33.0
+2021-01-16,India,mobile,Unattributed,80.0
+2021-01-16,Italy,desktop,Paid Search,0.0
+2021-01-16,Mexico,desktop,Direct,65.0
+2021-01-16,Netherlands,mobile,Direct,69.0
+2021-01-16,South Korea,mobile,Organic Search,139.0
+2021-01-16,Spain,desktop,Unattributed,10.0
+2021-01-16,United Arab Emirates,mobile,Organic Search,40.0
+2021-01-16,United States,desktop,Organic Search,54.0
+2021-01-16,United States,desktop,Unattributed,98.0
+2021-01-16,United States,mobile,Direct,12.0
+2021-01-16,United States,mobile,Organic Search,0.0
+2021-01-16,United States,mobile,Referral,170.0
+2021-01-16,United States,mobile,Unattributed,195.0
+2021-01-17,Canada,desktop,Referral,48.0
+2021-01-17,Colombia,desktop,Organic Search,66.0
+2021-01-17,Germany,desktop,Organic Search,48.0
+2021-01-17,India,mobile,Unattributed,69.0
+2021-01-17,Japan,desktop,Organic Search,50.0
+2021-01-17,Taiwan,desktop,Unattributed,0.0
+2021-01-17,United States,desktop,Organic Search,24.0
+2021-01-17,United States,desktop,Unattributed,60.0
+2021-01-17,United States,mobile,Organic Search,11.0
+2021-01-17,United States,mobile,Unattributed,75.0
+2021-01-17,Vietnam,desktop,Unattributed,30.0
+2021-01-18,(not set),mobile,Organic Search,15.0
+2021-01-18,Australia,mobile,Unattributed,13.0
+2021-01-18,Canada,desktop,Organic Search,0.0
+2021-01-18,Colombia,mobile,Referral,122.0
+2021-01-18,Greece,desktop,Unattributed,34.0
+2021-01-18,India,desktop,Unattributed,54.0
+2021-01-18,Ireland,desktop,Direct,32.0
+2021-01-18,Philippines,desktop,Unattributed,5.0
+2021-01-18,Turkey,mobile,Organic Search,38.0
+2021-01-18,United States,desktop,Organic Search,420.0
+2021-01-18,United States,desktop,Referral,17.0
+2021-01-18,United States,mobile,Direct,127.0
+2021-01-18,United States,mobile,Organic Search,106.0
+2021-01-18,United States,mobile,Unattributed,199.0
+2021-01-19,Brazil,desktop,Unattributed,24.0
+2021-01-19,Canada,desktop,Direct,0.0
+2021-01-19,Canada,mobile,Unattributed,1220.0
+2021-01-19,Colombia,mobile,Organic Search,86.0
+2021-01-19,Cyprus,mobile,Direct,89.0
+2021-01-19,France,desktop,Organic Search,13.0
+2021-01-19,Greece,desktop,Organic Search,86.0
+2021-01-19,Hong Kong,mobile,Unattributed,179.0
+2021-01-19,India,desktop,Direct,0.0
+2021-01-19,Indonesia,desktop,Unattributed,99.0
+2021-01-19,Israel,desktop,Direct,12.0
+2021-01-19,Japan,desktop,Organic Search,16.0
+2021-01-19,Japan,mobile,Unattributed,22.0
+2021-01-19,Malaysia,desktop,Direct,53.0
+2021-01-19,Netherlands,tablet,Referral,85.0
+2021-01-19,New Zealand,desktop,Direct,30.0
+2021-01-19,Poland,desktop,Organic Search,85.0
+2021-01-19,Taiwan,desktop,Referral,104.0
+2021-01-19,Taiwan,mobile,Direct,258.0
+2021-01-19,Ukraine,mobile,Organic Search,28.0
+2021-01-19,United States,desktop,Direct,73.0
+2021-01-19,United States,desktop,Organic Search,143.0
+2021-01-19,United States,desktop,Referral,132.0
+2021-01-19,United States,desktop,Unattributed,262.0
+2021-01-19,United States,mobile,Direct,57.0
+2021-01-19,United States,mobile,Organic Search,283.0
+2021-01-19,United States,mobile,Referral,0.0
+2021-01-19,United States,mobile,Unattributed,77.0
+2021-01-19,United States,tablet,Organic Search,20.0
+2021-01-19,United States,tablet,Referral,72.0
+2021-01-19,United States,tablet,Unattributed,88.0
+2021-01-19,Vietnam,desktop,Unattributed,60.0
+2021-01-20,Algeria,desktop,Organic Search,0.0
+2021-01-20,Australia,desktop,Direct,0.0
+2021-01-20,Australia,desktop,Referral,230.0
+2021-01-20,Austria,mobile,Unattributed,0.0
+2021-01-20,Brazil,desktop,Organic Search,106.0
+2021-01-20,Canada,desktop,Direct,84.0
+2021-01-20,Canada,desktop,Organic Search,173.0
+2021-01-20,Canada,desktop,Unattributed,198.0
+2021-01-20,Canada,mobile,Direct,86.0
+2021-01-20,Canada,mobile,Organic Search,169.0
+2021-01-20,Canada,mobile,Unattributed,279.0
+2021-01-20,China,mobile,Unattributed,47.0
+2021-01-20,Denmark,mobile,Direct,99.0
+2021-01-20,Ecuador,desktop,Organic Search,0.0
+2021-01-20,Finland,mobile,Direct,88.0
+2021-01-20,Germany,desktop,Referral,0.0
+2021-01-20,India,desktop,Direct,30.0
+2021-01-20,India,desktop,Organic Search,78.0
+2021-01-20,India,desktop,Referral,0.0
+2021-01-20,India,desktop,Unattributed,88.0
+2021-01-20,India,mobile,Direct,103.0
+2021-01-20,India,mobile,Unattributed,108.0
+2021-01-20,India,tablet,Organic Search,93.0
+2021-01-20,Indonesia,desktop,Unattributed,107.0
+2021-01-20,Ireland,mobile,Direct,122.0
+2021-01-20,Israel,desktop,Unattributed,77.0
+2021-01-20,Italy,desktop,Unattributed,95.0
+2021-01-20,Italy,mobile,Unattributed,85.0
+2021-01-20,Japan,desktop,Organic Search,20.0
+2021-01-20,Malaysia,desktop,Unattributed,55.0
+2021-01-20,Malaysia,mobile,Paid Search,96.0
+2021-01-20,Mexico,mobile,Unattributed,123.0
+2021-01-20,Netherlands,desktop,Unattributed,178.0
+2021-01-20,Panama,desktop,Unattributed,44.0
+2021-01-20,Romania,mobile,Direct,81.0
+2021-01-20,Singapore,desktop,Organic Search,0.0
+2021-01-20,Spain,desktop,Direct,34.0
+2021-01-20,Spain,mobile,Organic Search,269.0
+2021-01-20,Spain,mobile,Unattributed,85.0
+2021-01-20,Sri Lanka,desktop,Direct,36.0
+2021-01-20,Sri Lanka,mobile,Organic Search,84.0
+2021-01-20,Taiwan,mobile,Unattributed,10.0
+2021-01-20,Turkey,mobile,Organic Search,84.0
+2021-01-20,Turkey,mobile,Unattributed,87.0
+2021-01-20,United Arab Emirates,mobile,Unattributed,0.0
+2021-01-20,United Kingdom,desktop,Organic Search,141.0
+2021-01-20,United Kingdom,desktop,Unattributed,86.0
+2021-01-20,United Kingdom,mobile,Referral,173.0
+2021-01-20,United States,desktop,Direct,202.0
+2021-01-20,United States,desktop,Organic Search,716.0
+2021-01-20,United States,desktop,Paid Search,110.0
+2021-01-20,United States,desktop,Referral,177.0
+2021-01-20,United States,desktop,Unattributed,496.0
+2021-01-20,United States,mobile,Direct,375.0
+2021-01-20,United States,mobile,Organic Search,25.0
+2021-01-20,United States,mobile,Referral,144.0
+2021-01-20,United States,mobile,Unattributed,186.0
+2021-01-21,Australia,mobile,Direct,47.0
+2021-01-21,Brazil,desktop,Unattributed,190.0
+2021-01-21,Brazil,mobile,Organic Search,44.0
+2021-01-21,Brazil,mobile,Unattributed,96.0
+2021-01-21,Canada,desktop,Direct,88.0
+2021-01-21,Canada,desktop,Organic Search,517.0
+2021-01-21,Colombia,desktop,Direct,61.0
+2021-01-21,Colombia,desktop,Organic Search,12.0
+2021-01-21,France,desktop,Organic Search,87.0
+2021-01-21,Germany,desktop,Referral,0.0
+2021-01-21,India,mobile,Direct,395.0
+2021-01-21,India,mobile,Unattributed,86.0
+2021-01-21,Italy,desktop,Unattributed,96.0
+2021-01-21,Japan,desktop,Unattributed,13.0
+2021-01-21,Japan,mobile,Unattributed,55.0
+2021-01-21,Malaysia,mobile,Organic Search,14.0
+2021-01-21,Portugal,desktop,Organic Search,10.0
+2021-01-21,Singapore,mobile,Referral,162.0
+2021-01-21,Slovakia,desktop,Unattributed,42.0
+2021-01-21,Slovenia,desktop,Organic Search,98.0
+2021-01-21,South Korea,desktop,Direct,84.0
+2021-01-21,Spain,desktop,Organic Search,132.0
+2021-01-21,Sweden,desktop,Referral,80.0
+2021-01-21,Switzerland,mobile,Direct,79.0
+2021-01-21,Taiwan,desktop,Referral,84.0
+2021-01-21,Turkey,desktop,Unattributed,15.0
+2021-01-21,United Arab Emirates,desktop,Unattributed,98.0
+2021-01-21,United Kingdom,desktop,Direct,97.0
+2021-01-21,United Kingdom,mobile,Direct,103.0
+2021-01-21,United Kingdom,mobile,Unattributed,40.0
+2021-01-21,United States,desktop,Direct,215.0
+2021-01-21,United States,desktop,Organic Search,129.0
+2021-01-21,United States,desktop,Referral,154.0
+2021-01-21,United States,desktop,Unattributed,480.0
+2021-01-21,United States,mobile,Organic Search,232.0
+2021-01-21,United States,mobile,Paid Search,16.0
+2021-01-21,United States,mobile,Unattributed,11.0
+2021-01-21,United States,tablet,Referral,44.0
+2021-01-22,Argentina,desktop,Paid Search,13.0
+2021-01-22,Armenia,mobile,Direct,85.0
+2021-01-22,Australia,mobile,Unattributed,38.0
+2021-01-22,Bangladesh,mobile,Organic Search,50.0
+2021-01-22,Canada,desktop,Paid Search,16.0
+2021-01-22,Canada,tablet,Direct,130.0
+2021-01-22,China,desktop,Unattributed,225.0
+2021-01-22,China,mobile,Unattributed,99.0
+2021-01-22,Croatia,desktop,Organic Search,18.0
+2021-01-22,Czechia,desktop,Paid Search,50.0
+2021-01-22,Czechia,mobile,Organic Search,16.0
+2021-01-22,Egypt,desktop,Unattributed,16.0
+2021-01-22,France,desktop,Organic Search,40.0
+2021-01-22,France,desktop,Paid Search,139.0
+2021-01-22,France,mobile,Organic Search,177.0
+2021-01-22,Germany,desktop,Paid Search,84.0
+2021-01-22,Germany,mobile,Organic Search,53.0
+2021-01-22,Hong Kong,desktop,Organic Search,86.0
+2021-01-22,India,desktop,Direct,109.0
+2021-01-22,India,desktop,Organic Search,55.0
+2021-01-22,India,desktop,Unattributed,104.0
+2021-01-22,India,mobile,Organic Search,111.0
+2021-01-22,Israel,mobile,Unattributed,120.0
+2021-01-22,Japan,desktop,Referral,38.0
+2021-01-22,Japan,desktop,Unattributed,347.0
+2021-01-22,Jordan,mobile,Direct,16.0
+2021-01-22,Jordan,mobile,Organic Search,26.0
+2021-01-22,Mexico,desktop,Unattributed,52.0
+2021-01-22,Netherlands,mobile,Direct,16.0
+2021-01-22,Netherlands,mobile,Unattributed,64.0
+2021-01-22,North Macedonia,desktop,Direct,94.0
+2021-01-22,Pakistan,mobile,Referral,20.0
+2021-01-22,Poland,desktop,Direct,98.0
+2021-01-22,Poland,mobile,Unattributed,82.0
+2021-01-22,Russia,mobile,Organic Search,28.0
+2021-01-22,Saudi Arabia,desktop,Organic Search,28.0
+2021-01-22,South Korea,desktop,Direct,0.0
+2021-01-22,South Korea,mobile,Organic Search,94.0
+2021-01-22,South Korea,mobile,Unattributed,169.0
+2021-01-22,Spain,mobile,Organic Search,84.0
+2021-01-22,Sweden,mobile,Organic Search,22.0
+2021-01-22,Taiwan,mobile,Direct,21.0
+2021-01-22,Taiwan,mobile,Unattributed,42.0
+2021-01-22,Turkey,mobile,Unattributed,14.0
+2021-01-22,United Kingdom,desktop,Organic Search,112.0
+2021-01-22,United Kingdom,desktop,Unattributed,81.0
+2021-01-22,United Kingdom,mobile,Referral,32.0
+2021-01-22,United States,desktop,Direct,180.0
+2021-01-22,United States,desktop,Organic Search,457.0
+2021-01-22,United States,desktop,Paid Search,94.0
+2021-01-22,United States,desktop,Referral,93.0
+2021-01-22,United States,desktop,Unattributed,561.0
+2021-01-22,United States,mobile,Direct,163.0
+2021-01-22,United States,mobile,Organic Search,137.0
+2021-01-22,United States,mobile,Paid Search,24.0
+2021-01-22,United States,mobile,Referral,46.0
+2021-01-22,United States,mobile,Unattributed,175.0
+2021-01-22,Uruguay,desktop,Organic Search,69.0
+2021-01-23,Brazil,desktop,Organic Search,123.0
+2021-01-23,Canada,desktop,Unattributed,34.0
+2021-01-23,Canada,mobile,Unattributed,77.0
+2021-01-23,China,desktop,Direct,81.0
+2021-01-23,China,desktop,Referral,24.0
+2021-01-23,Greece,mobile,Direct,20.0
+2021-01-23,India,desktop,Organic Search,369.0
+2021-01-23,India,desktop,Unattributed,308.0
+2021-01-23,India,mobile,Unattributed,18.0
+2021-01-23,Indonesia,desktop,Unattributed,272.0
+2021-01-23,Ireland,mobile,Direct,90.0
+2021-01-23,Netherlands,desktop,Unattributed,16.0
+2021-01-23,Netherlands,mobile,Unattributed,8.0
+2021-01-23,Pakistan,desktop,Referral,10.0
+2021-01-23,Philippines,desktop,Organic Search,81.0
+2021-01-23,Slovakia,desktop,Unattributed,21.0
+2021-01-23,Spain,desktop,Organic Search,27.0
+2021-01-23,Spain,mobile,Unattributed,122.0
+2021-01-23,Taiwan,mobile,Organic Search,100.0
+2021-01-23,United Kingdom,desktop,Organic Search,6.0
+2021-01-23,United States,desktop,Organic Search,189.0
+2021-01-23,United States,desktop,Referral,53.0
+2021-01-23,United States,desktop,Unattributed,178.0
+2021-01-23,United States,mobile,Direct,143.0
+2021-01-23,United States,mobile,Organic Search,122.0
+2021-01-23,United States,mobile,Referral,75.0
+2021-01-23,United States,mobile,Unattributed,38.0
+2021-01-23,United States,tablet,Direct,142.0
+2021-01-24,Canada,desktop,Referral,55.0
+2021-01-24,Canada,desktop,Unattributed,194.0
+2021-01-24,Canada,mobile,Direct,126.0
+2021-01-24,Canada,mobile,Organic Search,79.0
+2021-01-24,Canada,mobile,Unattributed,56.0
+2021-01-24,France,desktop,Referral,300.0
+2021-01-24,France,desktop,Unattributed,104.0
+2021-01-24,Germany,desktop,Unattributed,22.0
+2021-01-24,India,desktop,Organic Search,127.0
+2021-01-24,India,mobile,Unattributed,0.0
+2021-01-24,Malaysia,mobile,Unattributed,13.0
+2021-01-24,Netherlands,mobile,Organic Search,92.0
+2021-01-24,Philippines,mobile,Organic Search,106.0
+2021-01-24,Poland,desktop,Organic Search,0.0
+2021-01-24,South Korea,desktop,Organic Search,140.0
+2021-01-24,United Kingdom,mobile,Direct,29.0
+2021-01-24,United States,desktop,Direct,22.0
+2021-01-24,United States,desktop,Organic Search,94.0
+2021-01-24,United States,desktop,Unattributed,76.0
+2021-01-24,United States,mobile,Direct,146.0
+2021-01-24,United States,mobile,Organic Search,127.0
+2021-01-24,United States,mobile,Paid Search,291.0
+2021-01-24,Vietnam,desktop,Organic Search,209.0
+2021-01-25,(not set),mobile,Direct,51.0
+2021-01-25,Australia,desktop,Organic Search,0.0
+2021-01-25,Belgium,desktop,Referral,0.0
+2021-01-25,Brazil,mobile,Organic Search,43.0
+2021-01-25,Canada,desktop,Paid Search,162.0
+2021-01-25,Canada,desktop,Unattributed,336.0
+2021-01-25,Canada,mobile,Paid Search,17.0
+2021-01-25,Chile,desktop,Direct,141.0
+2021-01-25,China,desktop,Organic Search,22.0
+2021-01-25,France,desktop,Direct,157.0
+2021-01-25,France,desktop,Unattributed,98.0
+2021-01-25,Iceland,mobile,Organic Search,0.0
+2021-01-25,India,desktop,Direct,27.0
+2021-01-25,India,mobile,Direct,35.0
+2021-01-25,India,mobile,Organic Search,19.0
+2021-01-25,Italy,desktop,Direct,44.0
+2021-01-25,Japan,desktop,Referral,84.0
+2021-01-25,Japan,mobile,Paid Search,0.0
+2021-01-25,Kosovo,mobile,Unattributed,20.0
+2021-01-25,Poland,desktop,Organic Search,0.0
+2021-01-25,Portugal,mobile,Paid Search,52.0
+2021-01-25,South Korea,desktop,Unattributed,76.0
+2021-01-25,Spain,desktop,Unattributed,14.0
+2021-01-25,Sweden,desktop,Organic Search,58.0
+2021-01-25,Taiwan,mobile,Organic Search,82.0
+2021-01-25,Taiwan,mobile,Unattributed,21.0
+2021-01-25,Taiwan,tablet,Direct,111.0
+2021-01-25,Thailand,mobile,Unattributed,86.0
+2021-01-25,United Arab Emirates,mobile,Direct,0.0
+2021-01-25,United States,desktop,Direct,16.0
+2021-01-25,United States,desktop,Organic Search,179.0
+2021-01-25,United States,desktop,Referral,420.0
+2021-01-25,United States,desktop,Unattributed,325.0
+2021-01-25,United States,mobile,Direct,5.0
+2021-01-25,United States,mobile,Organic Search,218.0
+2021-01-25,United States,mobile,Referral,194.0
+2021-01-25,United States,mobile,Unattributed,219.0
+2021-01-25,United States,tablet,Direct,21.0
+2021-01-26,Algeria,mobile,Direct,0.0
+2021-01-26,Bahamas,desktop,Organic Search,24.0
+2021-01-26,Brazil,mobile,Unattributed,82.0
+2021-01-26,Canada,desktop,Direct,0.0
+2021-01-26,Canada,mobile,Direct,68.0
+2021-01-26,China,desktop,Unattributed,0.0
+2021-01-26,Denmark,desktop,Unattributed,25.0
+2021-01-26,France,desktop,Unattributed,42.0
+2021-01-26,India,desktop,Organic Search,0.0
+2021-01-26,India,desktop,Referral,119.0
+2021-01-26,India,mobile,Unattributed,58.0
+2021-01-26,Japan,desktop,Unattributed,0.0
+2021-01-26,Luxembourg,mobile,Direct,12.0
+2021-01-26,Malaysia,mobile,Referral,0.0
+2021-01-26,Netherlands,desktop,Direct,0.0
+2021-01-26,Netherlands,mobile,Organic Search,0.0
+2021-01-26,Pakistan,mobile,Organic Search,0.0
+2021-01-26,Peru,desktop,Unattributed,0.0
+2021-01-26,Poland,mobile,Paid Search,26.0
+2021-01-26,Romania,mobile,Organic Search,144.0
+2021-01-26,Russia,mobile,Unattributed,0.0
+2021-01-26,Slovakia,desktop,Direct,21.0
+2021-01-26,South Africa,tablet,Unattributed,0.0
+2021-01-26,Spain,desktop,Organic Search,38.0
+2021-01-26,Spain,mobile,Direct,0.0
+2021-01-26,Taiwan,desktop,Unattributed,82.0
+2021-01-26,Taiwan,mobile,Referral,0.0
+2021-01-26,United States,desktop,Direct,0.0
+2021-01-26,United States,desktop,Organic Search,38.0
+2021-01-26,United States,desktop,Unattributed,142.0
+2021-01-26,United States,mobile,Direct,165.0
+2021-01-26,United States,mobile,Organic Search,98.0
+2021-01-26,United States,mobile,Referral,10.0
+2021-01-26,United States,mobile,Unattributed,65.0
+2021-01-27,(not set),desktop,Organic Search,16.0
+2021-01-27,Belgium,mobile,Unattributed,0.0
+2021-01-27,Bolivia,mobile,Direct,0.0
+2021-01-27,Canada,desktop,Unattributed,0.0
+2021-01-27,China,mobile,Organic Search,0.0
+2021-01-27,China,mobile,Unattributed,0.0
+2021-01-27,Finland,desktop,Direct,70.0
+2021-01-27,Germany,mobile,Organic Search,0.0
+2021-01-27,Greece,mobile,Unattributed,0.0
+2021-01-27,Hong Kong,desktop,Direct,0.0
+2021-01-27,Hong Kong,desktop,Unattributed,0.0
+2021-01-27,India,desktop,Organic Search,0.0
+2021-01-27,India,desktop,Unattributed,16.0
+2021-01-27,India,mobile,Direct,0.0
+2021-01-27,India,mobile,Referral,0.0
+2021-01-27,India,mobile,Unattributed,0.0
+2021-01-27,Ireland,mobile,Unattributed,0.0
+2021-01-27,Japan,mobile,Direct,0.0
+2021-01-27,Japan,mobile,Organic Search,168.0
+2021-01-27,Mexico,desktop,Direct,0.0
+2021-01-27,Netherlands,mobile,Referral,0.0
+2021-01-27,Philippines,desktop,Unattributed,0.0
+2021-01-27,Poland,mobile,Unattributed,0.0
+2021-01-27,Russia,desktop,Direct,0.0
+2021-01-27,Russia,mobile,Referral,0.0
+2021-01-27,Singapore,mobile,Referral,0.0
+2021-01-27,Slovakia,tablet,Unattributed,0.0
+2021-01-27,South Korea,desktop,Referral,0.0
+2021-01-27,Spain,mobile,Organic Search,17.0
+2021-01-27,Spain,mobile,Unattributed,5.0
+2021-01-27,United Kingdom,desktop,Direct,70.0
+2021-01-27,United Kingdom,mobile,Organic Search,21.0
+2021-01-27,United States,desktop,Direct,16.0
+2021-01-27,United States,desktop,Organic Search,0.0
+2021-01-27,United States,mobile,Direct,19.0
+2021-01-27,United States,mobile,Referral,0.0
+2021-01-27,United States,mobile,Unattributed,39.0
+2021-01-28,Australia,desktop,Organic Search,13.0
+2021-01-28,Austria,mobile,Unattributed,0.0
+2021-01-28,Belgium,desktop,Unattributed,0.0
+2021-01-28,Canada,desktop,Direct,0.0
+2021-01-28,Canada,mobile,Direct,0.0
+2021-01-28,Canada,mobile,Organic Search,0.0
+2021-01-28,Canada,mobile,Paid Search,0.0
+2021-01-28,Canada,mobile,Referral,0.0
+2021-01-28,China,desktop,Unattributed,0.0
+2021-01-28,Hong Kong,desktop,Direct,0.0
+2021-01-28,India,desktop,Organic Search,78.0
+2021-01-28,India,mobile,Referral,0.0
+2021-01-28,Israel,desktop,Unattributed,0.0
+2021-01-28,Italy,desktop,Organic Search,0.0
+2021-01-28,Italy,desktop,Unattributed,0.0
+2021-01-28,Japan,mobile,Organic Search,0.0
+2021-01-28,Philippines,tablet,Direct,0.0
+2021-01-28,Poland,mobile,Unattributed,0.0
+2021-01-28,South Korea,mobile,Direct,0.0
+2021-01-28,Spain,desktop,Direct,0.0
+2021-01-28,Switzerland,mobile,Direct,0.0
+2021-01-28,Taiwan,mobile,Unattributed,0.0
+2021-01-28,United Kingdom,desktop,Unattributed,0.0
+2021-01-28,United States,desktop,Direct,14.0
+2021-01-28,United States,desktop,Organic Search,0.0
+2021-01-28,United States,desktop,Paid Search,0.0
+2021-01-28,United States,desktop,Referral,0.0
+2021-01-28,United States,desktop,Unattributed,0.0
+2021-01-28,United States,mobile,Direct,4.0
+2021-01-28,United States,mobile,Organic Search,0.0
+2021-01-28,United States,mobile,Referral,0.0
+2021-01-28,United States,mobile,Unattributed,19.0
+2021-01-28,United States,tablet,Unattributed,0.0
+2021-01-29,Argentina,desktop,Direct,0.0
+2021-01-29,Canada,mobile,Direct,0.0
+2021-01-29,Canada,mobile,Unattributed,0.0
+2021-01-29,Canada,tablet,Paid Search,0.0
+2021-01-29,China,mobile,Unattributed,0.0
+2021-01-29,Czechia,mobile,Unattributed,0.0
+2021-01-29,Finland,mobile,Organic Search,4.0
+2021-01-29,France,desktop,Direct,5.0
+2021-01-29,Guatemala,desktop,Direct,0.0
+2021-01-29,India,desktop,Direct,0.0
+2021-01-29,India,desktop,Organic Search,0.0
+2021-01-29,India,desktop,Unattributed,0.0
+2021-01-29,India,tablet,Direct,0.0
+2021-01-29,Indonesia,desktop,Unattributed,0.0
+2021-01-29,Japan,mobile,Organic Search,30.0
+2021-01-29,Mexico,mobile,Direct,0.0
+2021-01-29,Mexico,tablet,Organic Search,0.0
+2021-01-29,Morocco,mobile,Organic Search,33.0
+2021-01-29,Netherlands,mobile,Referral,0.0
+2021-01-29,Netherlands,mobile,Unattributed,0.0
+2021-01-29,Peru,desktop,Direct,0.0
+2021-01-29,Poland,desktop,Organic Search,0.0
+2021-01-29,Poland,mobile,Unattributed,0.0
+2021-01-29,Saudi Arabia,desktop,Unattributed,0.0
+2021-01-29,Singapore,desktop,Referral,70.0
+2021-01-29,South Korea,desktop,Direct,0.0
+2021-01-29,Spain,mobile,Direct,0.0
+2021-01-29,Switzerland,desktop,Direct,0.0
+2021-01-29,Taiwan,desktop,Unattributed,0.0
+2021-01-29,Tunisia,mobile,Unattributed,0.0
+2021-01-29,United States,desktop,Direct,0.0
+2021-01-29,United States,desktop,Organic Search,0.0
+2021-01-29,United States,desktop,Referral,48.0
+2021-01-29,United States,desktop,Unattributed,0.0
+2021-01-29,United States,mobile,Direct,0.0
+2021-01-29,United States,mobile,Organic Search,0.0
+2021-01-29,United States,mobile,Unattributed,0.0
+2021-01-30,Austria,mobile,Organic Search,0.0
+2021-01-30,Brazil,mobile,Unattributed,0.0
+2021-01-30,Canada,desktop,Direct,0.0
+2021-01-30,Canada,desktop,Organic Search,0.0
+2021-01-30,Canada,mobile,Unattributed,70.0
+2021-01-30,Ecuador,mobile,Direct,28.0
+2021-01-30,India,desktop,Organic Search,0.0
+2021-01-30,India,desktop,Unattributed,0.0
+2021-01-30,Norway,mobile,Unattributed,0.0
+2021-01-30,Peru,desktop,Unattributed,0.0
+2021-01-30,Russia,desktop,Unattributed,0.0
+2021-01-30,Singapore,desktop,Direct,0.0
+2021-01-30,South Korea,desktop,Direct,17.0
+2021-01-30,Spain,desktop,Unattributed,0.0
+2021-01-30,Taiwan,desktop,Organic Search,0.0
+2021-01-30,Taiwan,mobile,Unattributed,0.0
+2021-01-30,United Kingdom,desktop,Unattributed,0.0
+2021-01-30,United States,desktop,Direct,0.0
+2021-01-30,United States,desktop,Referral,16.0
+2021-01-30,United States,mobile,Direct,0.0
+2021-01-30,United States,mobile,Organic Search,0.0
+2021-01-30,United States,mobile,Referral,28.0
+2021-01-30,United States,mobile,Unattributed,0.0
+2021-01-31,Canada,desktop,Direct,0.0
+2021-01-31,India,desktop,Direct,0.0
+2021-01-31,India,mobile,Unattributed,0.0
+2021-01-31,Iraq,desktop,Direct,0.0
+2021-01-31,Iraq,desktop,Organic Search,0.0
+2021-01-31,Italy,desktop,Unattributed,0.0
+2021-01-31,Japan,desktop,Direct,0.0
+2021-01-31,Japan,desktop,Organic Search,0.0
+2021-01-31,Netherlands,desktop,Unattributed,0.0
+2021-01-31,Singapore,mobile,Organic Search,0.0
+2021-01-31,South Korea,desktop,Direct,0.0
+2021-01-31,Thailand,mobile,Unattributed,0.0
+2021-01-31,United States,desktop,Direct,0.0
+2021-01-31,United States,mobile,Organic Search,0.0
+2021-01-31,United States,mobile,Unattributed,0.0
+2021-01-31,United States,tablet,Unattributed,0.0
