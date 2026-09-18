@@ -33,6 +33,7 @@ Only 19.1% of sessions that view products add any to the cart. Once a session is
 
 ## Setup 
 Requires a Google Cloud project with the BigQuery API enabled. The dataset is public. 
+The python script connects to your BigQuery account and runs the query.
 
 Download Google Cloud SDK
 https://cloud.google.com/sdk
